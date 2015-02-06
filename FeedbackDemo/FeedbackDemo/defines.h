@@ -6,8 +6,8 @@
 //  Copyright 2011 Apptentive, Inc.. All rights reserved.
 //
 
-#define kApptentiveAPIKey @"ApptentiveApiKey"
-#define kApptentiveAppID @"ExampleAppID"
+#define kApptentiveAPIKey @"674c2537804b2c76ae994b35c17dc9a064cf5e5593adacfdf7d557f7a69069ef"
+#define kApptentiveAppID @"740636885"
 
 #define kApptentiveEvent1 @"testRatingFlow"
 #define kApptentiveEvent2 @"showSurvey"
